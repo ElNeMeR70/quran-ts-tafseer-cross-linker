@@ -1,0 +1,11 @@
+{
+  "name": "quran-ts-tafseer-cross-linker",
+  "version": "1.0.0",
+  "description": "Classical Tafseer & Asbab Al-Nuzul Knowledge Graph Linker (رابط الآيات بالتفاسير المأثورة وأسباب النزول)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
